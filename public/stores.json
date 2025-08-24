@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "zoneId": 1,
+    "name": "Bloom & Co.",
+    "type": "Flower Shop",
+    "description": "A local flower shop offering fresh bouquets and plants.",
+    "opening_hours": "Mon\u2013Sat 9:00 AM \u2013 7:00 PM",
+    "latitude": 51.048615,
+    "longitude": -114.070846,
+    "website": "https://bloomandco.example.com",
+    "picture": "https://picsum.photos/300/200?random=1"
+  },
+  {
+    "id": 2,
+    "zoneId": 1,
+    "name": "Urban Eats",
+    "type": "Restaurant",
+    "description": "Modern dining experience with locally sourced ingredients.",
+    "opening_hours": "Daily 11:00 AM \u2013 10:00 PM",
+    "latitude": 51.050112,
+    "longitude": -114.085291,
+    "website": "https://urbaneats.example.com",
+    "picture": "https://picsum.photos/300/200?random=2"
+  },
+  {
+    "id": 3,
+    "zoneId": 1,
+    "name": "FastBite",
+    "type": "Fast Food",
+    "description": "Quick and tasty fast food for people on the go.",
+    "opening_hours": "Daily 10:00 AM \u2013 11:00 PM",
+    "latitude": 51.052345,
+    "longitude": -114.066789,
+    "website": "https://fastbite.example.com",
+    "picture": "https://picsum.photos/300/200?random=3"
+  },
+  {
+    "id": 4,
+    "zoneId": 1,
+    "name": "PageTurner Books",
+    "type": "Bookstore",
+    "description": "Independent bookstore with curated titles and cozy nooks.",
+    "opening_hours": "Mon\u2013Sun 10:00 AM \u2013 8:00 PM",
+    "latitude": 51.0465,
+    "longitude": -114.0857,
+    "website": "https://pageturner.example.com",
+    "picture": "https://picsum.photos/300/200?random=4"
+  },
+  {
+    "id": 5,
+    "zoneId": 1,
+    "name": "FitHub",
+    "type": "Gym",
+    "description": "24/7 fitness center with modern equipment and classes.",
+    "opening_hours": "24/7",
+    "latitude": 51.0531,
+    "longitude": -114.0822,
+    "website": "https://fithub.example.com",
+    "picture": "https://picsum.photos/300/200?random=5"
+  }
+]
